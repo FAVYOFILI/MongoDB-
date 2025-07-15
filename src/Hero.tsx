@@ -29,26 +29,38 @@
 
       <hr className="h-[1px] w-6xl border-0  bg-gray-200 mt-20 ml-20"></hr>
 
-      <div className="flex-row justify-between mt-20">
-        <div className="flex  ml-11 ">
-          <h1 className="items-center">57k+ </h1> 
+      <div className="flex gap-5 mt-4 ml-6 ">
+        <div>
+          <span className="text-green-600 text-2xl font-bold justify-center ">
+            57K+
+          </span>
           <br />
-          <p>
-            Customers
-          </p>
+          Customers
         </div>
-        <div className=" ml-11">
-          <h1>125+ </h1>
+        <div>
+          <span className="text-green-600 text-2xl font-bold justify-center ">
+            125+
+          </span>
+          <br /> Regions across
+          <br /> AWS,Azure,and
+          <br /> Google Cloud.
+        </div>
+        <div>
+          <span className="text-green-600 text-2xl font-bold justify-center ">
+            175K+
+          </span>
           <br />
-          <p> Regions across AWS, Azure, and Google Cloud</p>
+          Developers join
+          <br /> every month
         </div>
-        <div className="ml-11">
-          <h1 className="justify-center  ">175+ </h1> <br />
-          <p> Developers join every month</p>
-        </div>
-        <div className=" ml-11">
-          <h1> #1 </h1> <br />
-          <p> Most used modern database</p>
+        <div>
+          <span className="text-green-600 text-2xl font-bold justify-center ">
+            #1
+          </span>
+          <br />
+          Most used
+          <br />
+          modern database
         </div>
       </div>
     </main>

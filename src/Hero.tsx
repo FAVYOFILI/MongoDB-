@@ -19,10 +19,10 @@
         </div>
       </div>
       <div className="ml-11 mt-11">
-        <button className="font-sans cursor-pointer  bg-green-400 py-3 px-6 rounded-md shadow-md ">
+        <button className="font-serif cursor-pointer  bg-green-400 py-3 px-6 rounded-md shadow-md ">
           Get Started
         </button>
-        <button className="font-sans  ml-11  py-3 px-6  cursor-pointer ">
+        <button className="font-serif  ml-11  py-3 px-6  cursor-pointer ">
           Learn More
         </button>
       </div>

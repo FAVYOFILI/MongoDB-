@@ -11,14 +11,14 @@ const Header = () => {
 
         <nav>
           <ul className="flex gap-6 text-black mr-[100px] font-serif ">
-            <li className="hover: cursor-pointer ">
+            <li className="hover: cursor-pointer font-serif">
               Products
               {/* <img src={Dropdown} className="" /> */}
             </li>
-            <li className="hover: cursor-pointer">Resources</li>
-            <li className="hover: cursor-pointer">Solutions</li>
-            <li className="hover: cursor-pointer">Company</li>
-            <li className="hover: cursor-pointer">Pricing</li>
+            <li className="hover: cursor-pointer font-serif">Resources</li>
+            <li className="hover: cursor-pointer font-serif">Solutions</li>
+            <li className="hover: cursor-pointer font-serif">Company</li>
+            <li className="hover: cursor-pointer font-serif">Pricing</li>
           </ul>
         </nav>
 
@@ -30,8 +30,8 @@ const Header = () => {
                 {/* <img src={Website} className="" /> */}
                 Eng
               </li>
-              <li className="hover: cursor-pointer">Support</li>
-              <li className="hover: cursor-pointer">Sign In</li>
+              <li className="hover: cursor-pointer font-serif">Support</li>
+              <li className="hover: cursor-pointer font-serif">Sign In</li>
             </ul>
           </nav>
         </div>

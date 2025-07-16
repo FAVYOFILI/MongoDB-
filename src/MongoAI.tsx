@@ -13,15 +13,15 @@ const MongoAI = () => {
         <div className=" w-[300px] h-[500px]   flex justify-center items-center rounded-4xl flex-col mr-7">
           {/* {MongoAI Level Up} */}
           <div>
-            <h1 className="font-serif font-bold text-4xl">
-              <span className="text-green-600 flex text-2xl font-serif">
+            <h1 className="font-serif font-bold text-2xl flex ">
+              <span className="text-green-600 text-3xl font-serif">
                 {" "}
                 Unlock the power of <br />
                 AI
               </span>{" "}
               with MongoDB
             </h1>
-            <p>
+            <p className="font-serif font-bold text-2xl flex">
               Discover how to leverage MongoDB <br />
               to streamline development for the <br /> next generation of
               AI-powered <br /> applications.
